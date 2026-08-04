@@ -46,8 +46,6 @@ Before using the script, carefully read the _HowToUse.txt and _Changelog.txt fil
 ## User comments:  
 
 ### [hoak](https://forums.mydigitallife.net)  
-The MDL Forums are a Windows System Internals and Software Development forum for Windows Developers, System Administrators, and casual Windows Users. While no files are hosted directly on MDL their criterion for what software and script can be linked are far more stringent than GitHub, SourceForge or any Linux Repo.  
-
 With forty-two Windows slimming tools and scripts in the wild now (and counting) I've tried them all for use on production systems -- many are labors of love, all have features others don't, only three are really 'ready for prime time' and the average User. Without hesitation, I find Slimdown10, and its companion project Slimdown11 tied for first place because it is:  
 
 · actually very easy to use  
