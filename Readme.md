@@ -23,7 +23,9 @@ FOSS self-documenting and prompting Windows preinstallation script and ISO build
 Just download Windows 10 your preferred language.  
 
 [Windows_10_19045.1826_(ESD image)](https://pastebin.com/raw/H8wZEzEv)  
+  
 NOTE: Use the ESD2ISO tool to extract the ISO image from the ESD file.  
+[ESD>ISO Converter](https://forums.mydigitallife.net/threads/windows-10-esd-repository.59082/page-77#post-1380516)
 
 Or  
 
