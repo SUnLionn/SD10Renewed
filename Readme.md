@@ -35,13 +35,12 @@ Or
 Because the most recent editions are much more bloated with unnecessary software and features than the suggested versions.  
 
 ## Download  
-[SD10_Renewed_1.63.7z](https://www.mediafire.com/file/6hdhiwk179j12dw/SD10_Renewed_1.63.7z/file)  
-psw: #Ey@BBgSs&2/p)!nFK  
-SHA256: b6f5c5a74ed144f9c2b2408527ebdebf23ecf21574d468bc92bfb99ef2212143 *SD10_Renewed_1.63.7z  
-MD5: ec5fa01ad061bea6ba0492e0e4d3467d *SD10_Renewed_1.63.7z  
+[SD10_Renewed_1.70.7z](https://www.mediafire.com/file/5cg1b16bo6pj9ve/SD10_Renewed_1.70.7z/file)  
+psw: {Ey@BGgSs&2/n)!nF0  
+SHA256: c7c35cb786ddb3002ee2d717a44c607dd0570a0913ace8b32e7342772ca76a71 *SD10_Renewed_1.70.7z  
 
 Use 7-Zip or WinRAR to extract, with the "Extract here" option in any directory, like X:\, D:\ etc.  
-Before using the script, carefully read the _HowToUse.txt and _Changelog.txt files  
+Please read the HowToUse.chm and Changelog.txt files before using the script  
 
 ## User comments:  
 
