@@ -2,7 +2,9 @@
 
 FOSS Self-Documenting Windows Debloating Script  
 
+
 ![Windows 10 Slimdown Creator - Configuratioin Menu](https://i.postimg.cc/wT1MVP1B/SD10-Renewed.png)   
+
 
 Current Developer: SunLion  
 Original Project Developer: Wojciech Keller 
