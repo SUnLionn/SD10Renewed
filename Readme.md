@@ -12,7 +12,7 @@ Contributors (in no particular order):  abbodi1406, Enthousiast, steven4554, MSM
 
 Tags: customization, customize-windows, debloat, windows-debloat, windows-setup, windows-10  
 
-(<img width=25% height=25% alt="Windows 10 Slimdown Creator - Configuratioin Menu" src="https://ibb.co/9kkMwrbm">)
+<img width=25% height=25% alt="Windows 10 Slimdown Creator - Configuratioin Menu" src="https://ibb.co/9kkMwrbm">
 
 ## Description:  
 
