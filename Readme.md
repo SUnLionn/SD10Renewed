@@ -8,9 +8,6 @@ Original Project Developer: Wojciech Keller
 Contributors (in no particular order):  abbodi1406, Enthousiast, steven4554, MSMG, Windows_Addict, freddie-o, bau aka AveYo, xinso, Ace2, balanadi, kebabstorm, letmeindude, egalerst, Shrinklier, mustafa gotr, hoak, otvertka, Metalwell, Ramsey, Mavericks Choice, siliconbeaver, raptorddd, KMPLAYER  
 
 
-(<img width=25% height=25% alt="Windows 10 Slimdown Creator - Configuratioin Menu" src="https://www.mediafire.com/file/f2nfwoi1p6i9fyh/SD10_Renewed.PNG/file">)  
-
-
 [forums.mydigitallife.net](https://forums.mydigitallife.net/threads/slimdown10_v2-0-2-continued.88599/)  
 
 Tags: customization, customize-windows, debloat, windows-debloat, windows-setup, windows-10  
