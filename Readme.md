@@ -1,6 +1,8 @@
 # Slimdown10 Renewed
 
-FOSS Self-Documenting Windows Debloating Script
+FOSS Self-Documenting Windows Debloating Script  
+
+![Windows 10 Slimdown Creator - Configuratioin Menu](https://i.ibb.co/YFFrDLc4/SD10-Renewed.png)   
 
 Current Developer: SunLion  
 Original Project Developer: Wojciech Keller 
@@ -11,8 +13,6 @@ Contributors (in no particular order):  abbodi1406, Enthousiast, steven4554, MSM
 [forums.mydigitallife.net](https://forums.mydigitallife.net/threads/slimdown10_v2-0-2-continued.88599/)  
 
 Tags: customization, customize-windows, debloat, windows-debloat, windows-setup, windows-10  
-
-![Windows 10 Slimdown Creator - Configuratioin Menu](https://i.ibb.co/YFFrDLc4/SD10-Renewed.png)
 
 ## Description:  
 
