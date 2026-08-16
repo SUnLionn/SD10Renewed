@@ -12,8 +12,6 @@ Contributors (in no particular order):  abbodi1406, Enthousiast, steven4554, MSM
 
 Tags: customization, customize-windows, debloat, windows-debloat, windows-setup, windows-10  
 
-![Windows 10 Slimdown Creator - Configuratioin Menu](https://ibb.co/9kkMwrbm)  
-
 ## Description:  
 
 FOSS self-documenting and prompting Windows preinstallation script and ISO build tools for:  
