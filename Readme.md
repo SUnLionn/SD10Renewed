@@ -16,10 +16,10 @@ Tags: customization, customize-windows, debloat, windows-debloat, windows-setup,
 
 FOSS self-documenting and prompting Windows preinstallation script and ISO build tools for:  
 
-· minimizing Windows bloat
-· cleanly removes shovel-ware, adware, features, and experiences*
-· optionally preinstalls Windows Updates
-· optionally preinstalls drivers
+· minimizing Windows bloat  
+· cleanly removes shovel-ware, adware, features, and experiences*  
+· optionally preinstalls Windows Updates  
+· optionally preinstalls drivers  
 · optional customization  
 
 Slimdown10 doesn't just delete and/or add, it uses Microsoft's component install services to correctly and cleanly remove and selectively install features, components, updates, drivers, and edit settings.
