@@ -2,22 +2,27 @@
 
 FOSS Self-Documenting Windows Debloating Script
 
-Current Developer: SunLionn  
+Current Developer: SunLion
 Original Project Developer: Wojciech Keller
+Contributors (in no particular order):  abbodi1406, Enthousiast, steven4554, MSMG, Windows_Addict, freddie-o, bau aka AveYo, xinso, Ace2, balanadi, kebabstorm, letmeindude, egalerst, Shrinklier, mustafa gotr, hoak, otvertka, Metalwell, Ramsey, Mavericks Choice, siliconbeaver, raptorddd, KMPLAYER  
+
 
 [forums.mydigitallife.net](https://forums.mydigitallife.net/threads/slimdown10_v2-0-2-continued.88599/)  
+
+Tags: customization, customize-windows, debloat, windows-debloat, windows-setup, windows-10  
 
 ## Description:  
 
 FOSS self-documenting and prompting Windows preinstallation script and ISO build tools for:  
 
-· minimizing Windows bloat  
-· cleanly removes shovel-ware, features, and experiences*  
-· optionally preinstalls Windows Updates  
-· optionally preinstalls drivers  
-· optional customization    
+· minimizing Windows bloat
+· cleanly removes shovel-ware, adware, features, and experiences*
+· optionally preinstalls Windows Updates
+· optionally preinstalls drivers
+· optional customization  
 
-  * doesn't just delete, uses Microsoft's component install services to correctly and cleanly remove  
+Slimdown10 doesn't just delete and/or add, it uses Microsoft's component install services to correctly and cleanly remove and selectively install features, components, updates, drivers, and edit settings.
+  
 
 ## How do use?  
 Just download Windows 10 your preferred language.  
@@ -45,15 +50,23 @@ Please read the HowToUse.chm and Changelog.txt files before using the script
 ## User comments:  
 
 ### [hoak](https://forums.mydigitallife.net)  
-With forty-two Windows slimming tools and scripts in the wild now (and counting) I've tried them all for use on production systems -- many are labors of love, all have features others don't, only three are really 'ready for prime time' and the average User. Without hesitation, I find Slimdown10, and its companion project Slimdown11 tied for first place because it is:  
+For those that don't, won't, or cannot because they are too performance, or privacy constrained by Windows 11, Windows 10 LTSC IoT is still available, FREE, will be supported January 13, 2032 with updates until can be safely and legally downloaded here: https://massgrave.dev/windows_10_links 
 
-· actually very easy to use  
-· very customizable at runtime (no editing required, prompts the user, defaults are all safe)  
-· FOSS  
-· open Script that can be edited if you want to take it to another level  
-· is the most frequently updated of this category of tool  
-· has a considerable audience of loyal testers and users  
-· is the most well supported (it's current Author answers forum posts daily)  
-· works with virtually every Windows SKU (IoT LTSC recommended for lowest drag 'just the OS' install)  
-· is the most well behaved in this category  
-· everything is in open human readable script so you can see for yourself nothing untoward is happening to your system  
+"en-us_windows_10_iot_enterprise_version_22h2_x64_dvd_51cc370f.iso"
+
+The MDL Forums are a Windows System Internals and Software Development forum for Windows Developers, System Administrators, and casual Windows Users. While no files are hosted directly on MDL their criterion for what software and script can be linked are far more stringent than GitHub, SourceForge or any Linux Repo.
+
+With forty-two Windows slimming tools and scripts in the wild now (and counting) I've tried them all for use on production systems -- many are labors of love, all have features others don't, only three are really 'ready for prime time' and the average User. Without hesitation, I find Slimdown10, and its companion project Slimdown11 tied for first place because it is:
+
+· actually very easy to use
+· very customizable at runtime (no editing required, prompts the user, defaults are all safe)
+· FOSS
+· open Script that can be edited if you want to take it to another level
+· is the most frequently updated of this category of tool
+· has a considerable audience of loyal testers and users
+· is the most well supported (it's current Author answers forum posts daily)
+· works with virtually every Windows SKU (IoT LTSC recommended for lowest drag 'just the OS' install)
+· is the most well behaved in this category
+· everything is in open human readable script so you can see for yourself nothing untoward is happening to your system
+
+Submission made with permission of all Authors and enthusiastic support of Contributors.    
