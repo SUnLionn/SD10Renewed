@@ -2,8 +2,8 @@
 
 FOSS Self-Documenting Windows Debloating Script
 
-Current Developer: SunLion
-Original Project Developer: Wojciech Keller
+Current Developer: SunLion  
+Original Project Developer: Wojciech Keller  
 Contributors (in no particular order):  abbodi1406, Enthousiast, steven4554, MSMG, Windows_Addict, freddie-o, bau aka AveYo, xinso, Ace2, balanadi, kebabstorm, letmeindude, egalerst, Shrinklier, mustafa gotr, hoak, otvertka, Metalwell, Ramsey, Mavericks Choice, siliconbeaver, raptorddd, KMPLAYER  
 
 
