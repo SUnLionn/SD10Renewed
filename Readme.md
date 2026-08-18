@@ -28,9 +28,9 @@ Slimdown10 doesn't just delete and/or add, it uses Microsoft's component install
 ## How do use?  
 
 
-![Windows 10 Slimdown Creator - Configuratioin Menu](https://i.postimg.cc/wT1MVP1B/SD10-Renewed.png)   
+![Windows 10 Slimdown Creator - Configuratioin Menu](https://i.postimg.cc/DzYwqf5r/SD10-Renewed-1-1.png)  
 
-![Windows 10 Slimdown Creator - Configuratioin Menu](https://i.postimg.cc/DwMMGxS8/SD10-Renewed-2.png)   
+![Windows 10 Slimdown Creator - Configuratioin Menu](https://i.postimg.cc/9X9Q7h9M/SD10-Renewed-2-1.png)   
 
 
 Just download Windows 10 your preferred language.  
