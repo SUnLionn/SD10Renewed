@@ -53,7 +53,10 @@ psw: {Ey@BGgSs&2/n)!nF0
 SHA256: c7c35cb786ddb3002ee2d717a44c607dd0570a0913ace8b32e7342772ca76a71 *SD10_Renewed_1.70.7z  
 
 Use 7-Zip or WinRAR to extract, with the "Extract here" option in any directory, like X:\, D:\ etc.  
+
+=============================================================================  
 Please read the HowToUse.chm and Changelog.txt files before using the script  
+=============================================================================  
 
 ## User comments:  
 
