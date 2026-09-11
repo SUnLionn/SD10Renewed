@@ -48,9 +48,9 @@ Or
 Because the most recent editions are much more bloated with unnecessary software and features than the suggested versions.  
 
 ## Download  
-[SD10_Renewed_1.70.7z](https://www.mediafire.com/file/5cg1b16bo6pj9ve/SD10_Renewed_1.70.7z/file)  
-psw: {Ey@BGgSs&2/n)!nF0  
-SHA256: c7c35cb786ddb3002ee2d717a44c607dd0570a0913ace8b32e7342772ca76a71 *SD10_Renewed_1.70.7z  
+[SD10_Renewed_1.71.7z](https://www.mediafire.com/file/ysdaebfvcie9moc/SD10_Renewed_1.71.7z/file)  
+psw: ]xz@4GgOs&0/n)!nG1  
+SHA256: 4a6186fb64bf87ccf95b7dd152e5192d8c67c52528cc1d7ceb978166ebe9a7f7 *SD10_Renewed_1.71.7z  
 
 Use 7-Zip or WinRAR to extract, with the "Extract here" option in any directory, like X:\, D:\ etc.  
 
